@@ -1,0 +1,19 @@
+#quote{
+  text-align:center;
+  color: #fff;
+  padding: 5%;
+
+}
+
+#pricing{
+  background-color: #525252;
+  padding: 10%;
+}
+
+/* .dp-down{
+  text-align: center;
+} */
+
+.dp-btn{
+  background-color:  #525252;
+}

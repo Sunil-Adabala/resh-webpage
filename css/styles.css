@@ -1,0 +1,110 @@
+
+
+body {
+  font-family:"Montserrat";
+  /* color:#fff; */
+}
+
+/* nav bar */
+#navbar{
+  font-size: 30px;
+  font-color:#fff;
+  background-color: #313131;  /* #525252 #67eaca*/
+  padding: 0 0 4.5rem;
+}
+
+.nav-pricing{
+  margin-right: 30px;
+}
+
+#main-head{
+  font-size: 60px;
+  font-weight: bold;
+
+  /* font-family: 'Bangers', cursive; */
+font-family: 'Tangerine', cursive;
+/* font-family: 'Marck Script', cursive; */
+
+}
+
+#pic1{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+
+
+#Title{
+  color: #fff;
+  background-color: #313131;   /* #525252 #67eaca;*/
+  text-align:center;
+
+}
+
+
+.head{
+  /* display: inline-block;
+  text-align:center; */
+  padding: 1%;
+}
+
+.subhead{
+  /* text-align: center; */
+  padding: 1%;
+}
+
+.abt-btn{
+  /* color: white; */
+  margin: 1%;
+}
+
+/* features */
+
+#features{
+  padding: 8%;
+}
+
+/* carousel */
+
+.carousel{
+  text-align: center;
+  background-color:  #525252;
+  padding: 1%;
+
+}
+.pic{
+  /* margin-left:  10%; */
+  /* display: inline-block; */
+  text-align: center;
+
+  float:none;
+  /* display: inline-block; */
+  /* margin: 0 0 0 0; */
+  /* padding: 2% 0; */
+  height: 500px;
+  width: 500px;
+}
+
+/* call-to-action */
+
+#cta{
+
+  font-family: Montserrat;
+
+  font-weight: bold;
+  text-align: center;
+  padding: 3% 2%;
+}
+
+#ctahead{
+font-size: 45px;
+}
+
+.icon-footer{
+  color: black;
+  padding: 2% 1% 1%;
+}
+
+.btm-line{
+  font-size: 15px;
+}
